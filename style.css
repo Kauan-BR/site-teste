@@ -4,7 +4,7 @@ header{
 }
 
 .cabecalho-imagem{
-width: 13%;
+width: 10%;
 }
 
 .cabecalho {
@@ -28,7 +28,7 @@ width: 13%;
 }
 
 .escola-imagem{
-    width: 50%;
+    width: 30%;
 }
 
 .escola{
@@ -38,4 +38,16 @@ width: 13%;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
 }

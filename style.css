@@ -4,7 +4,7 @@ header{
 }
 
 .cabecalho-imagem{
-width: 20%;
+width: 13%;
 }
 
 .cabecalho {
@@ -28,5 +28,14 @@ width: 20%;
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 50%;
+}
+
+.escola{
+    background-image: linear-gradient(#000000,#ffe600);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }

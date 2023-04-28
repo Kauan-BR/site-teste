@@ -89,3 +89,9 @@ body {
    background-color: #000000;
    color: #ffffff;
 }
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    text-align: center;
+}

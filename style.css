@@ -33,7 +33,7 @@ width: 5%;
 
 .escola{
     background-image: linear-gradient(#000000,#ffe600);
-    color:white;
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,4 +79,13 @@ body {
     height: 60px;
     padding: 12px 0;
 
+}
+
+.estudante{
+    background-image: linear-gradient(#ffe600,#ffffff);
+}
+
+.estudante-titulo{
+   background-color: #000000;
+   color: #ffffff;
 }
